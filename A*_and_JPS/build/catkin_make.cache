@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCMAKE_CXX_STANDARD=14 -DCATKIN_DEVEL_PREFIX=/home/qianle/newPath_ws/path-planning/A*_and_JPS/devel -DCMAKE_INSTALL_PREFIX=/home/qianle/newPath_ws/path-planning/A*_and_JPS/install -G Unix Makefiles
