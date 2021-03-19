@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/usr/include/**",
+        "./src/grid_path_searcher/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

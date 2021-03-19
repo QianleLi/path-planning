@@ -1,0 +1,8 @@
+prefix=/home/qianle/newPath_ws/path-planning/RRT*/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/qianle/newPath_ws/path-planning/RRT*/src/grid_path_searcher/include
+Libs: -L${prefix}/lib 
+Requires: 
